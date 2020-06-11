@@ -5,4 +5,4 @@ nav_order: 1
 permalink: /
 ---
 
-# Forus Labs' Engineering Practices & Style Guides
+# Engineering Practices & Style Guides
