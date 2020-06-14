@@ -1,2 +1,4 @@
-# engineering-practices
-Forus Labs' Engineering Practices Documentation
+# Forus Labs' engineering practices & style guides
+
+**View the engineering guides & style guides [here](https://engineering.foruslabs.com)**
+
