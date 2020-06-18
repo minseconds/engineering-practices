@@ -2,7 +2,7 @@
 layout: default
 title: How to Git Gud
 parent: Engineering Practices
-nav_order: 2
+nav_order: 1
 ---
 
 # How to Git Gud

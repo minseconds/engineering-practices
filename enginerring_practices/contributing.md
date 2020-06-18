@@ -42,7 +42,7 @@ All submitted pull requests will be reviewed before they are accepted. Precedenc
 priority.
 
 Describing the nuances of reviewing the code in a pull request is out of the scope of this article. It warrants its own 
-article due to how lengthy the topic is. Please see [code reeeeviews](./code_reeeviews) for more information.
+article due to how lengthy the topic is. Please see [code reeeviews](code_reviews) for more information.
 
 After reviewing a pull request, either of the following will happen. In the best case scenario, the pull request is
 accepted. Yay! However, in most cases, there will be issues in the pull request that you will be requested to fix. 
