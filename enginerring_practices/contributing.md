@@ -35,7 +35,6 @@ someone else to (hopefully) do so.
 When submitting a pull request, do include a description of what the pull request does, and if possible, how it does so. 
 The description should also mention any issues linked to the pull request. 
 
-
 ## How a Pull Request is Reviewed
 
 All submitted pull requests will be reviewed before they are accepted. Precedence is given to pull requests with higher
@@ -44,7 +43,14 @@ priority.
 Describing the nuances of reviewing the code in a pull request is out of the scope of this article. It warrants its own 
 article due to how lengthy the topic is. Please see [code reeeviews](code_reviews) for more information.
 
+## Post Pull Request Review
+
 After reviewing a pull request, either of the following will happen. In the best case scenario, the pull request is
 accepted. Yay! However, in most cases, there will be issues in the pull request that you will be requested to fix. 
 After fixing the issues, the pull request will be reviewed again and vice versa. On some occasions, we may choose to 
 decline a pull request.
+
+If a pull request is accepted, the feature branch that contains the pull request is squashed and merged. After which, it
+is deleted.
+
+
